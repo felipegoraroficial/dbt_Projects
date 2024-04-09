@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+    - name: sources_Nintendo
+      database: Data_Ware_House
+      schema: Nintendo
+      tables:
+        - name: Kabum
+        - name: Mercado Livre
+        - name: Magalu

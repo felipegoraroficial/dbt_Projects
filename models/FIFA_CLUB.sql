@@ -1,0 +1,1 @@
+SELECT * FROM {{source("sources_FIFA","FIFA_CLUBE")}}

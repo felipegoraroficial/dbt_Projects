@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+    - name: sources_FIFA
+      database: Data_Ware_House
+      schema: FIFA
+      tables:
+        - name: FIFA_CLUBE
+        - name: FIFA_PAIS
+        - name: FIFA_LIGA
+        - name: FIFA_JOGADOR
